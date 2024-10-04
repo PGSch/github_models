@@ -27,6 +27,7 @@ Run the respective script to test the Azure or OpenAI integration:
 ```bash
 python3 sample_01_Azure.py
 python3 sample_01_openAI.py
+python3 sample_02_Llama_Azure.py
 ```
 
 ## License
